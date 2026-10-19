@@ -1,0 +1,9 @@
+
+{
+  "nome":"atividade-cicd",
+  "versão":"1.0.0",
+  "descrição":"Projeto de estudo de CI/CD",
+  "roteiros": {
+    "teste":"nó --teste"
+  }
+}
